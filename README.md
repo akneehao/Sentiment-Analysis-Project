@@ -6,6 +6,8 @@ Key highlights include:
 Data Scraping: Extracted over 30,000 user reviews using web scraping techniques.
 Data Cleaning: Utilized NLP techniques to clean and preprocess the dataset, removing unnecessary words and optimizing for faster processing.
 Exploratory Data Analysis (EDA): Conducted a comprehensive analysis to uncover key insights, such as commonly used words and average word count per review.
+
+
 Sentiment Classification: Built and evaluated machine learning models for sentiment prediction using:
 Logistic Regression
 Gradient Descent
